@@ -11,7 +11,7 @@ It contains pointers to the private implementation repositories for each phase:
 ## Overview
 We explore two complementary architectures for face recognition on video frames:
 1. A fully managed, serverless pipeline using AWS Lambda and ECR.  
-2. An edge-deployed pipeline using AWS IoT Greengrass and EC2 emulation.  
+2. An edge-deployed pipeline using AWS IoT Greengrass.  
 
 ## Structure
 - `part1/` → Contains the PaaS/ECR Lambda code (face detection & recognition).  
