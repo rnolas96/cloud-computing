@@ -3,7 +3,7 @@ It contains pointers to the private implementation repositories for each phase:
 
 - **Part I - EC2**
   [Private Repo ->] (IN Progress)
-- **Part II – PaaS (ECR Approach)**  
+- **Part II – FaaS (ECR Approach)**  
   [FaaS Repo](https://github.com/rnolas96/cloud-computing-lambda)  
 - **Part III – Edge Computing**  
   [Edge Repo](https://github.com/rnolas96/cloud-computing-edge)  
