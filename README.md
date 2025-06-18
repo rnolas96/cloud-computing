@@ -4,9 +4,9 @@ It contains pointers to the private implementation repositories for each phase:
 - **Part I - EC2**
   [Private Repo ->] (IN Progress)
 - **Part II – PaaS (ECR Approach)**  
-  [Private Repo ➔](https://github.com/rnolas96/cloud-computing-lambda)  
+  [PaaS Repo](https://github.com/rnolas96/cloud-computing-lambda)  
 - **Part III – Edge Computing**  
-  [Private Repo ➔](https://github.com/rnolas96/cloud-computing-edge)  
+  [Edge Repo](https://github.com/rnolas96/cloud-computing-edge)  
 
 ## Overview
 We explore two complementary architectures for face recognition on video frames:
