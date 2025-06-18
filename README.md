@@ -1,9 +1,11 @@
 This repository serves as the index for my cloud computing projects that  orchestrating both serverless and edge-based pipelines.  
 It contains pointers to the private implementation repositories for each phase:
 
-- **Part I – PaaS (ECR Approach)**  
+- **Part I - EC2**
+  [Private Repo ->] (IN Progress)
+- **Part II – PaaS (ECR Approach)**  
   [Private Repo ➔](https://github.com/rnolas96/cloud-computing-lambda)  
-- **Part II – Edge Computing**  
+- **Part III – Edge Computing**  
   [Private Repo ➔](https://github.com/rnolas96/cloud-computing-edge)  
 
 ## Overview
